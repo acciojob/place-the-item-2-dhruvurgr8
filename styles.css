@@ -1,8 +1,9 @@
 
 /* Your CSS Code here. */
-.parent{
+.holder{
 	display:flex;
 	justify-content:center;
+	flex-wrap;wrap;
 }
 .a{
 	height:200px;
