@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+.parent{
+	display:flex;
+	justify-content:center;
+}
+.a{
+	height:200px;
+	width:200px;
+	background-color:blue;
+}
+.b{
+	height:200px;
+	width:200px;
+	background-color:red;
+}
+.c{
+	height:200px;
+	width:200px;
+	background-color:green;
+}
+
